@@ -1,0 +1,6 @@
+{
+  "name": "Maison D'Or — Luxury Digital Invitations & 250-Template Studio",
+  "description": "استودیو طراحی و بازارچه ۲۵۰ کارت دعوت دیجیتال لوکس با پاکت سه‌بعدی، مهر مومی، طلاکوب واقعی و موتور یکپارچه قالب‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
